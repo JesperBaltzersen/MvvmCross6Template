@@ -1,0 +1,1 @@
+# MvvmCross6Template
